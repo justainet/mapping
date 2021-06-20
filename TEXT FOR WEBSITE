@@ -1,0 +1,135 @@
+##text for mapping website:
+
+These pages describe the JUST AI Network's attempts at mapping the field of AI and data ethics. It may be considered a living document in two ways. On the one hand, we will keep adding materials, images and links to this page until the JUST AI Project's conclusion. On the other hand, we invite others to use our data and tools to interrogate, question and remake our methods and findings to produce other representations, questions and perspectives.
+
+## Ethics or not?
+Over the course of our project's duration, the discussion about AI ethics has received a great deal of scrutiniy and criticism.
+ochigame, metzinger-ethics washing, ben wagner ethics washing, washing/bashing, google disband, timnit firing, participatory AI emerged and mona sloane has even warned that it might run the risk of becoming like AI ethics, that is, corporate...
+
+Our motivation with this effort has been not to reproduce and perpetuate existing power structures and support exploitative technological infrastructures that operate to harm the already disadvantaged. Rather, we were motivated by the desire to use mapping as an exploratory and descriptive tool in order to help surface new perspectives and new knowledge. It is a hard challenge to map absences and we may not have succeeded to the extent we might have wished. However, our approach may serve as a prototype and starting point for further attempts at creating bridges between ways of thinking about desirable and undesirable uses of technology. 
+
+## A tiny little bit on history
+
+the history of computer ethics - https://link.springer.com/article/10.1007/s00146-020-01010-1
+
+"Unlike computer ethics, which has traditionally focused on ethical issues surrounding human use of machines, AI or machine ethics is concerned with the behaviour of machines towards human users and perhaps other machines as well, and the ethicality of these interactions. The ultimate goal of machine ethics, according to the AI scientists, is to create a machine that itself follows an ideal ethical principle or a set of principles; that is to say, it is guided by this principle or these principles in decisions it makes about possible courses of action it could take(a)." --> https://link.springer.com/article/10.1007/s00146-017-0768-6
+
+
+## Previous mappings:
+
+- Link to Fluxus Kumu, greatly inspired by this approach.
+
+- other bibliometric projects:
+    - Heersmink
+        - they did this
+        - they found this
+    - digital dignity to whatever
+        - they did this
+        - they found this
+    - excellent paper on analysing the notion of accountability in particular
+        - they did this
+        - they found this
+    - Women underrepresented: https://dl.acm.org/doi/10.1145/3442188.3445874
+        - they did this
+        - they found this
+    - study of AI ethics using qual methods https://link.springer.com/article/10.1007/s11948-021-00293-x#Sec6
+        - they did this
+        - they found this
+    - large scale bibliometric study of AI broadly https://www.sciencedirect.com/science/article/abs/pii/S0040162520313081?dgcid=rss_sd_all#sec0007
+        - they did this
+            
+        - they found this
+            
+    - On Quantifying and Understanding the Role of Ethics in AI Research: A Historical Account of Flagship Conferences and Journals - arXiv:1809.08328 [cs]
+        - they did this
+            
+        - they found this: 
+            "In this paper, we carried out an investigation of the long-term prominence of ethics related research in flagship AI venues. In order to do so, we performed corpora analyses on a large number of artificial intelligence, machine learning, and robotics top conferences and journals. The focus on ethical consequences and implications of AI has been in the field’s research agenda since its dawn. However, specific interest on ethics-related research topics has not been consistent over the decades. The experiments identified a relatively low attention of the AI community with respect to ethical consequences of AI along the decades, as shown by our data analyses However, our results show that over the last decades ethical issues have not been present at the main tracks of the flagship AI venues. Although workshops and smaller events may raise awareness among researchers and professionals, given the relevance and prominence AI technology has achieved in society, one can argue that ethics-related research should have perhaps dedicated tracks alongside the technical contents in the leading AI, machine learning and robotics venues.
+    - biblio method on digital wellness: https://link.springer.com/article/10.1007/s11948-020-00175-8
+        - they did this
+            
+        - they found this: 
+    - biblio method on recommender systems: https://link.springer.com/article/10.1007/s00146-020-00950-y#Sec1
+        - they did this
+            
+        - they found this:
+    - interesting stuff on distilling perspectives on ethics (inequality, extinction, accident) https://arxiv.org/pdf/2102.04255.pdf
+    - Towards Ethical Data Ecosystems: A Literature Study - https://ieeexplore.ieee.org/document/8792599
+        - they did this
+            
+        - they found this: 
+            "This study reviews the extant literature regarding the given advice about ethical considerations. The method of systematic literature study is used to collect the primary articles (N=20). The selected articles are analyzed and themed according to reoccurring themes: privacy, accountability, ownership, accessibility, and motivation. The results show the discussion is fragmented and concrete ethical guidelines are lacking. Thus, this study requires more work for governing data ecosystems in an ethical way."
+            
+    - keyword-based study of AI ethics literature - https://arxiv.org/ftp/arxiv/papers/1809/1809.07027.pdf
+        - they did this
+        - they found this: found a couple of keywords, but many important things seem to be missing and they only looked at a relatively small subsection of the whole (80ish) articles
+
+
+!!##What have we done?
+
+Started with a survey in early 2020 to gauge the field.
+
+Received X responses. wasn't clear whether they are working in the space or not.
+
+Plot responses on a UK map.
+
+The we scraped profiles, stopped bc it's not effective and consent issues.
+
+We then went through a series of successive searches in academic and pre-print data repositories.
+
+We decided to take a deliberately restricted approach to operationalising ethics.
+
+Searched a number of key technical terms in combination with ethics.
+
+## Operationalising AI and data ethics
+
+Very difficult to operationalise.
+
+!!! As (https://link.springer.com/article/10.1007/s11948-021-00293-x#Sec6) argued "there is no settled view on what counts as an ethical issue and why"!!! 
+Moreover, the whole field has become highly contested in recent years, escalated by scandals related to technology companies, and the black lives matter movement which profoundly foregrounded the disproportionate harms suffered by minorities. 
+
+also influenced by data feminism.
+
+## DATA JUSTICE 
+We can see a new kind of discussion emerging around data justice that has few connections to the larger AI ethics discussion. 
+
+We took a restricted approach that can be flexibly expanded upon in multiple directions. 
+
+included autonomous systems, automated decision making and autonomous vehicles because these have attracted. There are notable absences, for example, facial recognition was not included, which may rightly be raised as an important omission. We encourage others to make use of our resources, to learn from our mistakes, improve upon and criticise the approach we had taken. 
+
+Consider it a partial success. 
+
+## How to define the period?
+
+RRI discourse emerged, technological progress, big data availability, etc. 
+
+Here we show ethics + a smaller segment on responsible and trustworthy AI.
+
+## CAVEATS
+
+data is not perfect, might contain mistakes. Struggled with making different datasets compatible. 
+Especially challenging is to work with references, as these are not stored in uniform and interoperable ways. Digital Object Identifiers (DOIs) make analysis somewhat easier, but DOIs are sometimes incorrectly stored or not attached to papers at all. We have manually searched thousands of DOIs for references that didn't include one. However, even this is limited because not every publication or referenced resource has a DOI, notably, books and older publications. This constrains and potentially distorts what are able to see and thus say about 
+
+If anything, our attempts and struggles have foregrounded two things. On the one hand, the importance of data cleaning and preparation, which is an often underacknowledged part of working with data. On the other hand, the importance of developing standard data formats, structures and tools that make them interoperable. 
+
+
+Contents:
+
+- survey
+ - numbers
+ - geographical map
+ - keywords
+ - institutions
+ - 
+- scraping (probably should not be shown, only a little outtake, Alison's profile)
+- static biblio maps - separate by sources
+- links to interactive visualisations generated from Gephi
+- resources
+    - data - as large CSV
+    - data - separate file with references in edge-table format
+    - code for coupling
+    - code for flipping names
+    - code for extracting WoS affiliations
+    - code for DOI extractor
+- next steps - invitation for others to look at our resources and make use of them.
+- acknowledgements (Pau, Crystal Lee, Parth, Dilli Bapu, )
