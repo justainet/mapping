@@ -1,5 +1,5 @@
 Bibliometric data files.
-Files formatted for analysis with VOSViewer and Bibliometrix.
+Files formatted for analysis with VOSViewer and the Bibliometrix package for R.
 
 Separate files containing UK-only data, and data without country restriction.
 
